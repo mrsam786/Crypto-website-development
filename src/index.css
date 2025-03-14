@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.card-background {
+    background-image: url('./assets/img/card-bg.jpg');
+    background-size: cover;   
+    background-repeat: no-repeat;
+
+}
+
+.text-gradient {
+    background: linear-gradient(to right, #55A5EE, #E00B7C); /* Customize your gradient */
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
