@@ -33,7 +33,7 @@ const DiamondHands = () => {
             <a href="https://www.mexc.com/price/vice" target="_blank" aria-label="Trade VICE Token Now">
               <CustomButton text="Trade Now" />
             </a>
-            <div role="button" tabIndex="0" className="cursor-pointer" onClick={scroll_down} onKeyPress={(e) => e.key === 'Enter' && scroll_down()} aria-label="Learn More About VICE">
+            <div role="button" tabIndex="0" className="cursor-pointer hidden sm:block" onClick={scroll_down} onKeyPress={(e) => e.key === 'Enter' && scroll_down()} aria-label="Learn More About VICE">
               <CustomButton text="Learn More" />
             </div>
           </div>

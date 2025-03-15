@@ -53,14 +53,12 @@ const Blockchain = () => {
       </div>
 
       {/* Text Section */}
-      <div className="flex flex-col justify-center items-center px-6 sm:px-10 md:px-36 max-w-[1600px] text-start">
+      <div className="flex flex-col justify-center items-center px-6 sm:px-10 md:px-36 max-w-[1600px] text-center sm:text-start">
         <p className="w-full font-Space_Grotesk text-[clamp(36px,8vw,70px)] text-text_color mb-6 sm:mb-[34px] uppercase leading-tight tracking-tight">
           Trustless. Decentralized.<br/> Transparent.
         </p>
-        <p className="w-full font-poppins font-bold text-[clamp(18px,4vw,28px)] text-text_color leading-tight tracking-tight">
-          $VICE is revolutionizing the giveaway ecosystem<br />
-          by leveraging blockchain technology for full<br />
-          transparency, fairness, and security.
+        <p className="w-full font-poppins sm:font-bold text-[clamp(18px,4vw,28px)] text-text_color leading-tight tracking-tight">
+          $VICE is revolutionizing the giveaway ecosystem by leveraging blockchain technology for full transparency, fairness, and security.
         </p>
       </div>
     </div>

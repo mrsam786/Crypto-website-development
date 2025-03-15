@@ -66,6 +66,7 @@ const Feature = () => {
               >
                 <CustomButton text="Trade Now" />
               </a>
+              <div className="hidden sm:block">
               <a
                 href="https://vice-io.gitbook.io/vice.io-docs/introduction/vice-overview/vice-platform"
                 target="_blank"
@@ -73,6 +74,7 @@ const Feature = () => {
               >
                 <CustomButton text="Learn More" />
               </a>
+              </div>
             </div>
           </div>
         </div>
